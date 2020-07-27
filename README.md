@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/hakimsembiring/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! My name is Hakim Sembiring. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Hakim Sembiring Meliala. 👋🤓</h2>
 <p align="center">I am a web developer and founder of idstack. I currently work as a freelance programmer and tutorial content creator both on IDStack and Codepolitan.
 You can meet me on IDStack's YouTube Channel and can also join Telegram or Discord discussion groups.
 Oia, I like playing FPS and DoTA games. For you Anime lovers can also recommend me.</p>
