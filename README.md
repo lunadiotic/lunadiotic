@@ -8,8 +8,10 @@
 <p align="center">I am a web developer and founder of idstack. I currently work as a freelance programmer and tutorial content creator both on IDStack and Codepolitan.
 You can meet me on IDStack's YouTube Channel and can also join Telegram or Discord discussion groups.
 Oia, I like playing FPS and DoTA games. For you Anime lovers can also recommend me.</p>
-<div style="text-align:center">
-<img alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /></div>
+
+<p align="center">
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</p>
 
 
 **Talking about Personal Stuffs:**
@@ -28,7 +30,6 @@ Oia, I like playing FPS and DoTA games. For you Anime lovers can also recommend 
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
 
 ![Lunadiotic Github Stats](https://github-readme-stats.vercel.app/api?username=lunadiotic&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 
 ⭐️ From [lunadiotic](https://github.com/lunadiotic)
 
