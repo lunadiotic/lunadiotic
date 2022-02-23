@@ -1,8 +1,8 @@
 <p align='center'>
-<a href="https://dev.to/lunadiotic"><img height="30" src="https://img.icons8.com/windows/32/000000/dev.png"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/lionaitc_"><img height="30" src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/lionatic"><img height="30" src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hakimsembiring/"><img height="30" src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a>
+<a href="https://dev.to/lunadiotic" style="background-color:white;"><img height="30" src="https://img.icons8.com/windows/32/000000/dev.png"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/lionaitc_" style="background-color:white;"><img height="30" src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/lionatic" style="background-color:white;"><img height="30" src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/hakimsembiring/" style="background-color:white;"><img height="30" src="https://img.icons8.com/material-outlined/24/000000/linkedin.png"/></a>
 </p>
 
 <h2 align="center">Hello there! My name is Hakim Sembiring Meliala. 👋🤓</h2>
@@ -17,7 +17,7 @@ Oia, I like playing FPS Games and DoTA. For you Anime lovers can also recommend 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Track&ROLL](http://tracknroll.com/) & [CodePolitan](https://codepolitan.com);
+- 👨🏽‍💻 I’m currently working on [Track&ROLL](http://tracknroll.com/) & [Nusabot](https://nusabot.id);
 - 👯 I’m looking to collaborate on [IDStack](https://github.com/idstck) 🤝
 - 🌱 I’m currently learning NodeJS and TypeScript
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
