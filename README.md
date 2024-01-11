@@ -19,7 +19,7 @@ Oia, I like playing FPS Games and DoTA. For you Anime lovers can also recommend 
 - 👨🏽‍💻 I’m currently working on [Nusabot](https://nusabot.id) and Find for another Job;
 - 👯 I’m looking to collaborate on [IDStack](https://github.com/idstck) 🤝
 - 🌱 I’m currently learning C# and .Net Core Framework
-- 🤔 I’m looking wife(s) 😬;
+- 🤔 I’m looking for wife(s) 😬;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Nothing :(
 - 📫 How to reach me: ahmadhakim404@gmail.com;
