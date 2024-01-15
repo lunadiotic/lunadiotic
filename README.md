@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/aimeliala/" style="background-color:white;"><img height="30" src="https://www.pngrepo.com/png/157006/180/linkedin.png"/></a>
 </p>
 
-<h2 align="center">Hello there! My name is Hakim Sembiring Meliala. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Aim. 👋🤓</h2>
 <p align="center">I am a web developer and founder of IDStack. I currently work as a Software Engineer, Content Creator at <a href="youtube.com/idstack">IDStack</a> and open to work right now.
 You can meet me on IDStack's YouTube Channel and can also join Telegram or Discord discussion groups.
 Oia, I like playing FPS Games and DoTA. For you Anime lovers can also recommend me.</p>
